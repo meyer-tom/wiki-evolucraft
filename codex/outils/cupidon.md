@@ -88,7 +88,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
      <p><mark style="color:red;"><strong>1 500</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-    <p>▸ <mark style="color:red;"><strong>Effet Vente</strong></mark> : Vends automatiquement les poissons pêché au /shop.</p>
+    <p>▸ <mark style="color:red;"><strong>Effet Vente</strong></mark> : Vends automatiquement les minerais récupérer au /shop.</p>
    </td>
   </tr>  
   <tr>
@@ -103,7 +103,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
      <p><mark style="color:red;"><strong>1 500</strong></mark> de <mark style="color:red;"><strong>Durabilitées</strong></mark></p>
    </td>
    <td>
-    <p>▸ <mark style="color:red;"><strong>Effet Vente</strong></mark> : Vends automatiquement les poissons pêché au /shop.</p>
+    <p>▸ <mark style="color:red;"><strong>Effet Vente</strong></mark> : Vends automatiquement les bûches récupérer au /shop.</p>
    </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ La boutique n'étant <mark style="color:green;">**plus disponible**</mark>. Les 
    <td>  
     <p>▸ <mark style="color:red;"><strong>Effet Magnet</strong></mark> : Vous permet de récolter les cultures cassées.</p>
     <p>▸ <mark style="color:red;"><strong>Effet Farmer</strong></mark> : Casse et replante dans une zone de 1X1.</p>
-    <p>▸ <mark style="color:red;"><strong>Effet Vente</strong></mark> : Vends automatiquement les poissons pêché au /shop.</p>
+    <p>▸ <mark style="color:red;"><strong>Effet Vente</strong></mark> : Vends automatiquement les cultures récupérer au /shop.</p>
    </td>
   </tr>
   <tr>
