@@ -237,4 +237,16 @@ description: Retrouvez ici toute la liste des compagnons rare dans le serveur.
     </td>
     <td>* Compagnon non disponible à l'achat ❌ (hors hôtel de vente)</td>
   </tr>
+   <tr>
+    <td><mark style="color:yellow;"><strong>Pyryx</strong></mark></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Rare/pyryx.png" alt=""></figure></td>
+    <td>
+      <p><mark style="color:yellow;"><strong>Niv. 1</strong></mark> → <mark style="color:yellow;"><strong>Résistance au feu</strong></mark>/<mark style="color:yellow;"><strong>🛡️ Défense</strong></mark> +5</p>
+      <p><mark style="color:yellow;"><strong>Niv. 5</strong></mark> → <mark style="color:yellow;"><strong>+5%</strong></mark> sur la vente <mark style="color:yellow;"><strong>Nether</strong></mark> au /shop</p>
+      <p><mark style="color:yellow;"><strong>Niv. 10</strong></mark> → <mark style="color:yellow;"><strong>❤️ Vie</strong></mark> +15</p>
+      <p><mark style="color:yellow;"><strong>Niv. 15</strong></mark> → <mark style="color:yellow;"><strong>+  4.500</strong></mark> 💲/h</p>
+      <p><mark style="color:yellow;"><strong>Niv. 20</strong></mark> → <mark style="color:yellow;"><strong>🗡️ Force</strong></mark> +5</p> 
+    </td>
+    <td>* Œuf de famillier (Caisse elementaire ☄️)</td>
+  </tr>
 </table>

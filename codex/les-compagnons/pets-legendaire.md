@@ -123,7 +123,7 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
   </tr>
   <tr>
     <td><mark style="color:purple;"><strong>Saphira</strong></mark></td>
-    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/Saphira.png" alt=""></figure></td>
+    <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/LegendaireSaphira.png" alt=""></figure></td>
     <td>
       <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>🛡️ Défense</strong></mark> +10</p>
       <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>+ 11.500</strong></mark> 💲/h</p>
@@ -263,5 +263,17 @@ description: Retrouvez ici toute la liste des compagnons légendaires dans le se
       <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>+ 7.500</strong></mark> 💲/h</p> 
    </td>
    <td>* Œuf de famillier (caisse lunaire)</td>
+  </tr>
+  <tr>
+   <td><mark style="color:purple;"><strong>Aquarok</strong></mark></td>
+   <td><figure><img src="../../.gitbook/assets/Les_Compagnons/Items/Legendaire/aquarok.png" alt=""></figure></td>
+   <td>
+        <p><mark style="color:purple;"><strong>Niv. 1</strong></mark> → <mark style="color:purple;"><strong>Monture</strong></mark> (Terrestre) / <mark style="color:purple;"><strong>❤️ Vie</strong></mark> +30</p></p>
+    <p><mark style="color:purple;"><strong>Niv. 5</strong></mark> → <mark style="color:purple;"><strong>✨ Régénération de Mana</strong></mark> +3</mark><p>
+      <p><mark style="color:purple;"><strong>Niv. 10</strong></mark> →<mark style="color:purple;"><strong>+10%</strong></mark> d'Argent <mark style="color:purple;"><strong>Pêcheur 🎣</strong></mark></p>
+     <p><mark style="color:purple;"><strong>Niv. 15</strong></mark> → <mark style="color:purple;"><strong>+ 12.000</strong></mark> 💲/h</p>
+      <p><mark style="color:purple;"><strong>Niv. 20</strong></mark> → <mark style="color:purple;"><strong>💕 Régénération</strong></mark> +6</p>
+   </td>
+   <td>* Œuf de famillier (Caisse elementaire ☄️)</td>
   </tr>
 </table>
